@@ -1,2 +1,3 @@
 # currency-Coverter-
-this is my first Flutter Aapp
+This is my first Flutter App its kie mini project 
+
